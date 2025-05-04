@@ -8,11 +8,11 @@ html,body{
 }
 
 .web-toolbar{
-    border-radius:0%;
+    border-radius:10px;
     gap: 40px;
     margin: 4px;
     height: 80px;
-    background-color: #1e7d8c;
+    background-color: cadetblue;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -121,7 +121,6 @@ padding-left:12px;
     padding: 4px;
     color: black;
     font-weight: bold;
-    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.3);
     border-radius: 8px;
     z-index: 1;
 }
